@@ -1,0 +1,5 @@
+{"Filepath":"include/QtMultimedia/qtmultimediadefs.h","Functions":null,"Records":[{"Name":"macro","Fields":["DEPRECATED_HEADER_QtMultimedia_qtmultimediadefs_h"]}]}
+{"Filepath":"include/QtMultimedia/qtmultimediaversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTMULTIMEDIA_VERSION","QTMULTIMEDIA_VERSION_STR","QT_QTMULTIMEDIA_VERSION_H"]}]}
+{"Filepath":"include/QtMultimediaGstTools/qtmultimediagsttoolsversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTMULTIMEDIAGSTTOOLS_VERSION","QTMULTIMEDIAGSTTOOLS_VERSION_STR","QT_QTMULTIMEDIAGSTTOOLS_VERSION_H"]}]}
+{"Filepath":"include/QtMultimediaQuick/qtmultimediaquickversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTMULTIMEDIAQUICK_VERSION","QTMULTIMEDIAQUICK_VERSION_STR","QT_QTMULTIMEDIAQUICK_VERSION_H"]}]}
+{"Filepath":"include/QtMultimediaWidgets/qtmultimediawidgetsversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTMULTIMEDIAWIDGETS_VERSION","QTMULTIMEDIAWIDGETS_VERSION_STR","QT_QTMULTIMEDIAWIDGETS_VERSION_H"]}]}
