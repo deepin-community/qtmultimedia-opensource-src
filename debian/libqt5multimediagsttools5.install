@@ -1,1 +1,1 @@
-usr/lib/*/libQt5MultimediaGstTools.so.*
+usr/lib/${DEB_HOST_MULTIARCH}/libQt5MultimediaGstTools.so.*
