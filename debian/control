@@ -9,20 +9,20 @@ Build-Depends: debhelper-compat (= 13),
                libgstreamer1.0-dev,
                libopenal-dev,
                libpulse-dev,
-               libqt5opengl5-dev (>= 5.15.7~),
+               libqt5opengl5-dev (>= 5.15.8~),
                pkg-kde-tools,
                qml-module-qtquick2,
                qml-module-qttest,
-               qtbase5-dev (>= 5.15.7~),
-               qtbase5-private-dev (>= 5.15.7~),
-               qtdeclarative5-dev (>= 5.15.7~),
+               qtbase5-dev (>= 5.15.8~),
+               qtbase5-private-dev (>= 5.15.8~),
+               qtdeclarative5-dev (>= 5.15.8~),
                xauth <!nocheck>,
                xvfb <!nocheck>,
                zlib1g-dev
-Build-Depends-Indep: qdoc-qt5 (>= 5.15.7~) <!nodoc>,
-                     qhelpgenerator-qt5 (>= 5.15.7~) <!nodoc>,
-                     qtattributionsscanner-qt5 (>= 5.15.7~) <!nodoc>,
-                     qtbase5-doc-html (>= 5.15.7~) <!nodoc>
+Build-Depends-Indep: qdoc-qt5 (>= 5.15.8~) <!nodoc>,
+                     qhelpgenerator-qt5 (>= 5.15.8~) <!nodoc>,
+                     qtattributionsscanner-qt5 (>= 5.15.8~) <!nodoc>,
+                     qtbase5-doc-html (>= 5.15.8~) <!nodoc>
 Standards-Version: 4.6.0
 Homepage: https://doc.qt.io/qt-5/qtmultimedia-index.html
 
