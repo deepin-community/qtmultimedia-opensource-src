@@ -1,8 +1,12 @@
-qtmultimedia-opensource-src (5.15.8-1+dde) UNRELEASED; urgency=medium
+qtmultimedia-opensource-src (5.15.8-2+dde) unstable; urgency=medium
 
+  [ Lu YaNing ]
   * New upstream release (5.15.8).
 
- -- Lu YaNing <luyaning@uniontech.com>  Tue, 31 Jan 2023 15:51:14 +0800
+  [ tunaichao ]
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 17:50:30 +0800
 
 qtmultimedia-opensource-src (5.15.7-1+dde) unstable; urgency=medium
 
